@@ -1,8 +1,0 @@
-var name = "Anna ";
-name += "Perry";
-Var nameLength = name.length;
-var shinigami = [ichigo , gin , shunsui];
-shinigami push.(Kyoraku);
-var substitute[0];
-shinigami.pop();
-
